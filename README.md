@@ -1,4 +1,4 @@
-ErlangModule
+Erlang-Encoder
 =====
 
 An OTP library
